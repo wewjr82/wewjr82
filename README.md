@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <style>
-      #header {
-        background: rgb(0, 0, 0);
+ <div id="header" style="padding: 20px;
+        color: white;  background: rgb(0, 0, 0);
         background: -moz-linear-gradient(
           58deg,
           rgba(0, 0, 0, 1) 0%,
           rgba(11, 23, 61, 0.7091211484593838) 41%
-        );
-        background: -webkit-linear-gradient(
+        ); background: -webkit-linear-gradient(
           58deg,
           rgba(0, 0, 0, 1) 0%,
           rgba(11, 23, 61, 0.7091211484593838) 41%
@@ -22,21 +13,8 @@
           58deg,
           rgba(0, 0, 0, 1) 0%,
           rgba(11, 23, 61, 0.7091211484593838) 41%
-        );
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#0b173d",GradientType=1);
-        padding: 20px;
-        color: white;
-      }
-
-      #stats_section{
-          
-          display: flex;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="header">
-      <h1 align="center">Hi 👋, I'm William White, Jr.</h1>
+        );  ">
+      <h1 align="center" >Hi 👋, I'm William White, Jr.</h1>
       <h3 align="center">A Fullstack Software Engineer</h3>
     </div>
 
@@ -177,7 +155,7 @@
         />
       </a>
     </p>
-<div id="stats_section" >
+<div id="stats_section" style="display: flex;" >
      <p>
       <img
         align="center"
@@ -202,6 +180,3 @@
       />
     </p>
 </div>
-   
-  </body>
-</html>
