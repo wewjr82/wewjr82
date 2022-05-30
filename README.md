@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William White, Jr.</h1>
-<h3 align="center">A software enigineer</h3>
+<h3 align="center">A Fullstack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wewjr82&label=Profile%20views&color=0e75b6&style=flat" alt="wewjr82" /> </p>
 
