@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/deuce82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deuce82" height="30" width="40" /></a>
-<a href="https://twitter.com/thehighvaluedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thehighvaluedev" height="30" width="40" /></a>
+<a href="https://twitter.com/ready_to_DEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thehighvaluedev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
